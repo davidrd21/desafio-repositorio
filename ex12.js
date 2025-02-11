@@ -1,4 +1,4 @@
 /*
-let nome = 'Davi';
+let nome = 'Daniel';
 alert(`Olá,${nome}!`)
 */
